@@ -1,0 +1,1 @@
+This is an attempt to automatically create blog posts from commit messages in INET. The method used is Zappier that triggers when a commit message is added, then uses Gemini to craft a blog entry based on it.
